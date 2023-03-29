@@ -18,7 +18,7 @@ Each row in the database contains information about one alleged victim. A row ma
 | `name`              | Name of the victim         | String | `John Doe`    |
 | `code_name`      | Code name assigned to the victim | String | `USJRN1` |
 | `role`              | Victim's role at the time | String | `Journalist`  |
-| `organization`      | Victim's organization at the time | String | `El Faro`     |
+| `affiliation `      | Victim's affiliation at the time | String | `El Faro`     |
 | `occurred`          | Year the case occurred | String  | `2018` |
 | `disclosed` | Year the case was disclosed | String | `2020` |
 | `disclosed_by`      | Who the case was disclosed by | String  | `Citizen Lab` |
