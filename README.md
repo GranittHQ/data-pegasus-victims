@@ -27,6 +27,7 @@ Each entry contains information about one victim. An entry may contain informati
 | `tech_notified`   | Tech company which notified the victim         | Apple        |
 | `device_type`     | Type of device                                 | iPhone       |
 | `attack_result`   | If the attack was attempted or successful      | Successful   |
+| `lockdown_bypass`   | If the attack bypassed Apple's Lockdown Mode | False |
 | `attack_vector`   | How the spyware was delivered                  | SMS          |
 | `exploit_name`    | CVE or name of the exploit used                | KISMET       |
 | `first_activity`  | Date of first spyware activity                 | 2018-06-02   |
@@ -47,4 +48,4 @@ The data is published under an Attribution-NonCommercial-ShareAlike 4.0 Internat
 
 ## About Granitt
 
-Granitt was founded by Runa Sandvik with the goal of securing journalists and at-risk people around the world. To learn more about our work, see [this TechCrunch interview](https://techcrunch.com/2022/07/15/granitt-journalist-security/) from July 2022.
+Granitt was founded by Runa Sandvik with the goal of securing journalists and at-risk people around the world. To learn more about our work, see [this TechCrunch interview](https://techcrunch.com/2022/07/15/granitt-journalist-security/) from July 2022.?
